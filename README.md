@@ -14,10 +14,10 @@ Interested in: CV, DL, NLP, ML, Transformers, Drones, AR, AI Consulting,Startup 
 
 * Working on: Deepl Learning based Timeseries forecasting, Building Chatbot on custoum company data.
 
-* Researching on Interpretable DL models and timeseries forecasting
+* Researching on Interpretable Deep Learning models, timeseries forecasting and Anomaly detection
 
-* Preferred Programming Language: Python
+* Preferred Programming Language: Python (learning golang)
 
-* Searching for: Position in early 2024
+* Searching for: Position in 2024 (Mid level / Senior Level)
 
-* Ask me about: AI applications, Chatbots, NLP, Computer Vision, Data Science
+* Ask me about: AI applications, Chatbots, NLP, Computer Vision, all in all Data Science related
