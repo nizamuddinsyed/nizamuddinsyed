@@ -21,6 +21,6 @@ Interested in: CV, DL, NLP, ML, Transformers, Drones, AR, AI Consulting,Startup 
 
 * Preferred Programming Language: Python (learning golang)
 
-* Searching for: Position in 2024 (Mid level / Senior Level)
+* Searching for: Position in 2025 (Mid level / Senior Level)
 
 * Ask me about: AI applications, Chatbots, NLP, Computer Vision, all in all Data Science related
