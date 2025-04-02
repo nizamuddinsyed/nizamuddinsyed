@@ -19,8 +19,8 @@ Interested in: CV, DL, NLP, ML, Transformers, Drones, AR, AI Consulting,Startup 
 
 * Researching on Interpretable Deep Learning models, timeseries forecasting and Anomaly detection
 
-* Preferred Programming Language: Python (learning golang)
+* Preferred Programming Language: Python
 
-* Searching for: Position in 2025 (Mid level / Senior Level)
+* Searching for: Position in 2025
 
-* Ask me about: AI applications, Chatbots, NLP, Computer Vision, all in all Data Science related
+* Ask me about: Applied AI, LLM, MCP, RAG
